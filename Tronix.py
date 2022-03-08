@@ -2012,7 +2012,7 @@ loop.run_until_complete(gladiators_bots())
 # TeamArsenic_time
 # ifgif
 
-# @TeamGladiators
+# @P_4_PEEYUSH
 ##########################################################################################################################
 
 
@@ -2063,7 +2063,7 @@ async def ifgif(e, gif):
 # + Help Menu
 
 
-# @TeamGladiators
+# @P_4_PEEYUSH
 ##########################################################################################################################
 
 fellows = {}
@@ -2167,7 +2167,7 @@ async def bot_help(e):
 # packspam
 # dspamhang
 
-# @TeamGladiators
+# @P_4_PEEYUSH
 ##########################################################################################################################
 
 
@@ -2785,7 +2785,7 @@ async def spam(e):
 # ucurse
 # replycurse
 # dreplycurse
-# @TeamGladiators
+# @P_4_PEEYUSH
 ##########################################################################################################################
 
 @Bot1.on(events.NewMessage(incoming=True))
@@ -3105,7 +3105,7 @@ async def curse(e):
                     emror += 1
             try:
                 if boom != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull multi curse on {boom} users for counter {counter}.**\nList of users who are gonna assaulted: {booms}")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @P_4_PEEYUSH crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull multi curse on {boom} users for counter {counter}.**\nList of users who are gonna assaulted: {booms}")
                     await asyncio.sleep(3)
                     for i in range(counter):
                         curmse = random.choice(curses)
@@ -3114,7 +3114,7 @@ async def curse(e):
                             await e.client.send_message(e.chat_id, verse)
                             await asyncio.sleep(0.3)
                 elif demv != 0 or sumdo != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @P_4_PEEYUSH crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
                 else:
                     await e.reply(usage)
             except Exception as g:
@@ -3236,7 +3236,7 @@ async def curse(e):
                     emror += 1
             try:
                 if boom != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull unlimited multi curse on {boom}.**\nList of users who are gonna assaulted: {booms}")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @P_4_PEEYUSH crew member's id:\n\n**:Skipping these:**\n\n**Starting powerfull unlimited multi curse on {boom}.**\nList of users who are gonna assaulted: {booms}")
                     await asyncio.sleep(3)
                     xd = 0
                     while xd == 0:
@@ -3246,7 +3246,7 @@ async def curse(e):
                             await e.client.send_message(e.chat_id, verse)
                             await asyncio.sleep(0.3)
                 elif demv != 0 or sumdo != 0:
-                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @TeamGladiators crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
+                    await e.reply(f"Your command contains->\n:{emror} Job faliures:\n:{sumdo} {sumdos} Sudo users id:\n:{demv} {demvs} @P_4_PEEYUSH crew member's id:\n\n**:Skipping these:**\n\n**Users to assault: {boom}**")
                 else:
                     await e.reply(usage)
             except Exception as g:
@@ -3615,7 +3615,7 @@ async def dreplycurse(e):
 # ping
 # alive
 
-# @TeamGladiators
+# @P_4_PEEYUSH
 ##########################################################################################################################
 
 
@@ -3793,7 +3793,7 @@ async def alive(e):
 # usage
 
 
-# @TeamGladiators
+# @P_4_PEEYUSH
 ##########################################################################################################################
 
 
@@ -4145,7 +4145,7 @@ async def dyno_usage(dyno):
 
 
 
-# @TeamGladiators
+# @P_4_PEEYUSH
 ##########################################################################################################################
 
 
@@ -4240,7 +4240,7 @@ async def alive(e):
 #BIO
 
 
-# @TeamGladiators
+# @P_4_PEEYUSH
 ##########################################################################################################################
 
 @Bot1.on(events.NewMessage(incoming=True, pattern=r"\%sbio(?: |$)(.*)" % hn))
@@ -5060,7 +5060,7 @@ Wᴀɪᴛ ғᴏʀ ᴀ ᴡʜɪʟᴇ ᴛᴏ ᴜsᴇ ɪᴛ ᴀɢᴀɪɴ.
             Bot70.disconnect()
         except Exception as e:
             pass
-        args = [sys.executable, "-m", "Gladiators.py"]
+        args = [sys.executable, "-m", "Tronix.py"]
         os.execl(sys.executable, *args)
         quit()
 
@@ -5078,7 +5078,7 @@ print(gladtext)
 print("")
 print("")
 print("Rooted successfully...")
-print("Starting Gladiators Spammerbots...")
+print("Starting Tronix..")
 print("Started....")
 if len(sys.argv) not in (1, 3, 4):
     try:
