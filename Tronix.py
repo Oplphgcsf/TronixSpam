@@ -4495,7 +4495,7 @@ async def _(event):
         try:
             glad = await event.get_reply_message()
             try:
-                media = await glad.download_media( "spammerbots/downloads/")
+                media = await glad.download_media( "TronixSpam/downloads/")
             except:
                 pass
             await client(UploadProfilePhotoRequest(
