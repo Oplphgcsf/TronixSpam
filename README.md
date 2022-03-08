@@ -1,12 +1,12 @@
-<!--This Bot is Made By Gladitors Project-->
+<!--This Bot is Made By @P_4_PEEYUSH-->
 <p align="center">
-  <img src="resources/Gladiators.jpeg" alt="Logo">
+  <img src="resources/Tronix.jpeg" alt="Logo">
 </p>
 
-### 🚀 Gʟᴀᴅɪᴀᴛᴏʀs sᴘᴀᴍᴍᴇʀʙᴏᴛs
-  <a href="https://github.com/Gladiators-Projects"><img alt="Website" src="https://img.shields.io/badge/Gladiators-Projects-blue"></a>
-  [![Stars](https://img.shields.io/github/stars/Gladiators-Projects/spammerbots?style=social)](https://github.com/Gladiators-Projects/spammerbots/stargazers)
-  [![Forks](https://img.shields.io/github/forks/Gladiators-Projects/spammerbots?style=social)](https://github.com/Gladiators-Projects/spammerbots/fork)
+### 🚀 Tʀᴏɴɪx
+  <a href="https://github.com/Oplphgcsf"><img alt="Website" src="https://img.shields.io/badge/Oplphgcsf-blue"></a>
+  [![Stars](https://img.shields.io/github/stars/Oplphgcsf/TronixSpam?style=social)](https://github.com/Oplphgcsf/TronixSpam/stargazers)
+  [![Forks](https://img.shields.io/github/forks/Oplphgcsf/TronixSpam?style=social)](https://github.com/Oplphgcsg/TronixSpam/fork)
 
 ### 🛠️ Lᴀɴɢᴜᴀɢᴇs Aɴᴅ Tᴏᴏʟs
 
@@ -17,12 +17,7 @@
 
 ### 🎆Dᴇᴘʟᴏʏ Tᴏ Hᴇʀᴏᴋᴜ
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gladiators-Projects/spammerbots)
-
-
-### 🧿Gᴇɴᴇʀᴀᴛᴇ ᴛᴇʟᴇᴛʜᴏɴ sᴇssɪᴏɴ
-  
-  [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@Acinonyx/TELETHON-SESSSION-GENERATOR#main.py)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Oplphgcsf/TronixSpam)
 
 
 ## 🗒️ Nᴇᴄᴇssᴀʀʏ Vᴀʀɪᴀʙʟᴇs
@@ -45,3 +40,4 @@ If you are taking code from this repository without a
 fork, then atleast give credits to our hardwork & star
 to this repository. ❤️
 ```
+``` Project Done And Maded By One And Only @P_4_PEEYUSH ```
